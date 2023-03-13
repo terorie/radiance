@@ -171,6 +171,7 @@ github.com/fsnotify/fsnotify v1.5.4/go.mod h1:OVB6XrOHzAwXMpEM7uPOzcehqUV2UqJxmV
 github.com/gagliardetto/binary v0.7.7/go.mod h1:mUuay5LL8wFVnIlecHakSZMvcdqfs+CsotR5n77kyjM=
 github.com/gagliardetto/binary v0.7.8 h1:hbIUIP8BWhPm/BIdODxY2Lnv4NlJwNdbtsi1xkhNOec=
 github.com/gagliardetto/binary v0.7.8/go.mod h1:Cn70Gnvyk1OWkNJXwVh3oYqSYhKLHJN+C/Wguw3fc3U=
+github.com/gagliardetto/gofuzz v1.2.2 h1:XL/8qDMzcgvR4+CyRQW9UGdwPRPMHVJfqQ/uMvSUuQw=
 github.com/gagliardetto/gofuzz v1.2.2/go.mod h1:bkH/3hYLZrMLbfYWA0pWzXmi5TTRZnu4pMGZBkqMKvY=
 github.com/gagliardetto/solana-go v1.8.3-0.20230302093440-c6043ec381e3 h1:PtvmSQDTpZ1mwN1t7UlCrUhTyEozJhF3ixuO1m0+9q0=
 github.com/gagliardetto/solana-go v1.8.3-0.20230302093440-c6043ec381e3/go.mod h1:i+7aAyNDTHG0jK8GZIBSI4OVvDqkt2Qx+LklYclRNG8=
@@ -736,8 +737,8 @@ github.com/twmb/franz-go/pkg/kmsg v1.4.0/go.mod h1:SxG/xJKhgPu25SamAq0rrucfp7lbz
 github.com/urfave/cli v1.22.10/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
 github.com/valyala/fasttemplate v1.0.1/go.mod h1:UQGH1tvbgY+Nz5t2n7tXsz52dQxojPUpymEIMZ47gx8=
-github.com/vbauerster/mpb/v8 v8.2.1 h1:7V3DLM8rkK4BpgDUqu8l/ExBDfAfMbWOECW5phzVHx0=
-github.com/vbauerster/mpb/v8 v8.2.1/go.mod h1:DqGePwrIYW6Bs5pXaGAuGgP0PYgu5VZKIjfLZkOsdZw=
+github.com/vbauerster/mpb/v8 v8.3.0 h1:xw2eMJ6v5NP8Rd7yOVzU6OqnRPrS1yWAoLTrWe7W4Nc=
+github.com/vbauerster/mpb/v8 v8.3.0/go.mod h1:bngtYUAu25QGxcYYglsF6oyoHlC9Yhh582xF9LjfmL4=
 github.com/viant/assertly v0.4.8/go.mod h1:aGifi++jvCrUaklKEKT0BU95igDNaqkvz+49uaYMPRU=
 github.com/viant/toolbox v0.24.0/go.mod h1:OxMCG57V0PXuIP2HNQrtJf2CjqdmbrOx5EkMILuUhzM=
 github.com/vishvananda/netns v0.0.0-20210104183010-2eb08e3e575f h1:p4VB7kIXpOQvVn1ZaTIVp+3vuYAXFe3OJEvjbUYJLaA=
